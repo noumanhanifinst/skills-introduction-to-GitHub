@@ -2,3 +2,4 @@
 ## My Clone Repository
 **Bold**
 Normal
+_Italic_
